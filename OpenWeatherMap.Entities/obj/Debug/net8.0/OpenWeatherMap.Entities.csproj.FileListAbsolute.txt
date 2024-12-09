@@ -1,0 +1,12 @@
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\bin\Debug\net8.0\OpenWeatherMap.Entities.deps.json
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\bin\Debug\net8.0\OpenWeatherMap.Entities.dll
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\bin\Debug\net8.0\OpenWeatherMap.Entities.pdb
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\OpenWeatherMap.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\OpenWeatherMap.Entities.AssemblyInfoInputs.cache
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\OpenWeatherMap.Entities.AssemblyInfo.cs
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\OpenWeatherMap.Entities.csproj.CoreCompileInputs.cache
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\OpenWeatherMap.Entities.sourcelink.json
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\OpenWeatherMap.Entities.dll
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\refint\OpenWeatherMap.Entities.dll
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\OpenWeatherMap.Entities.pdb
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Entities\obj\Debug\net8.0\ref\OpenWeatherMap.Entities.dll

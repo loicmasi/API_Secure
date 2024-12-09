@@ -1,0 +1,16 @@
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\bin\Debug\net8.0\OpenWeatherMap.Tools.deps.json
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\bin\Debug\net8.0\OpenWeatherMap.Tools.dll
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\bin\Debug\net8.0\OpenWeatherMap.Tools.pdb
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\bin\Debug\net8.0\OpenWeatherMap.Entities.dll
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\bin\Debug\net8.0\OpenWeatherMap.Entities.pdb
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.csproj.AssemblyReference.cache
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.AssemblyInfoInputs.cache
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.AssemblyInfo.cs
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.csproj.CoreCompileInputs.cache
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.sourcelink.json
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeat.A06099C8.Up2Date
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.dll
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\refint\OpenWeatherMap.Tools.dll
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\OpenWeatherMap.Tools.pdb
+C:\Users\loicm\Desktop\APIs\CallAPI\OpenWeatherMap.API\OpenWeatherMap.Tools\obj\Debug\net8.0\ref\OpenWeatherMap.Tools.dll
